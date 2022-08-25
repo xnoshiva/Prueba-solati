@@ -1,0 +1,97 @@
+11:24:54 p. m.  [main] 	Initializing Control Panel
+11:24:54 p. m.  [main] 	Windows Version:  Enterprise  64-bit
+11:24:54 p. m.  [main] 	XAMPP Version: 8.1.6
+11:24:54 p. m.  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:24:54 p. m.  [main] 	Running with Administrator rights - good!
+11:24:54 p. m.  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:24:54 p. m.  [main] 	Checking for prerequisites
+11:24:54 p. m.  [main] 	All prerequisites found
+11:24:54 p. m.  [main] 	Initializing Modules
+11:24:54 p. m.  [Apache] 	Apache Service detected with wrong path
+11:24:54 p. m.  [Apache] 	Change XAMPP Apache and Control Panel settings or
+11:24:54 p. m.  [Apache] 	Uninstall/disable the other service manually first
+11:24:54 p. m.  [Apache] 	Found Path: "D:\documentos del trabajo\apache\bin\httpd.exe" -k runservice
+11:24:54 p. m.  [Apache] 	Expected Path: "c:\xampp\apache\bin\httpd.exe" -k runservice
+11:24:54 p. m.  [mysql] 	MySQL Service detected with wrong path
+11:24:54 p. m.  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+11:24:54 p. m.  [mysql] 	Uninstall/disable the other service manually first
+11:24:54 p. m.  [mysql] 	Found Path: "D:\documentos del trabajo\mysql\bin\mysqld.exe" --defaults-file="d:\documentos del trabajo\mysql\bin\my.ini" mysql
+11:24:54 p. m.  [mysql] 	Expected Path: c:\xampp\mysql\bin\mysqld.exe --defaults-file=c:\xampp\mysql\bin\my.ini mysql
+11:24:54 p. m.  [filezilla] 	FileZilla Service detected with wrong path
+11:24:54 p. m.  [filezilla] 	Change XAMPP FileZilla and Control Panel settings or
+11:24:54 p. m.  [filezilla] 	Uninstall/disable the other service manually first
+11:24:54 p. m.  [filezilla] 	Found Path: "D:\documentos del trabajo\filezillaftp\filezillaserver.exe"
+11:24:54 p. m.  [filezilla] 	Expected Path: "c:\xampp\FileZillaFTP\filezillaserver.exe"
+11:24:54 p. m.  [main] 	Starting Check-Timer
+11:24:54 p. m.  [main] 	Control Panel Ready
+11:28:20 p. m.  [main] 	Deinitializing Modules
+11:28:20 p. m.  [main] 	Deinitializing Control Panel
+
+11:28:23 p. m.  [main] 	Initializing Control Panel
+11:28:23 p. m.  [main] 	Windows Version:  Enterprise  64-bit
+11:28:23 p. m.  [main] 	XAMPP Version: 8.1.6
+11:28:23 p. m.  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:28:23 p. m.  [main] 	Running with Administrator rights - good!
+11:28:23 p. m.  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:28:23 p. m.  [main] 	Checking for prerequisites
+11:28:23 p. m.  [main] 	All prerequisites found
+11:28:23 p. m.  [main] 	Initializing Modules
+11:28:23 p. m.  [Apache] 	Apache Service detected with wrong path
+11:28:23 p. m.  [Apache] 	Change XAMPP Apache and Control Panel settings or
+11:28:23 p. m.  [Apache] 	Uninstall/disable the other service manually first
+11:28:23 p. m.  [Apache] 	Found Path: "D:\documentos del trabajo\apache\bin\httpd.exe" -k runservice
+11:28:23 p. m.  [Apache] 	Expected Path: "c:\xampp\apache\bin\httpd.exe" -k runservice
+11:28:23 p. m.  [mysql] 	MySQL Service detected with wrong path
+11:28:23 p. m.  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+11:28:23 p. m.  [mysql] 	Uninstall/disable the other service manually first
+11:28:23 p. m.  [mysql] 	Found Path: "D:\documentos del trabajo\mysql\bin\mysqld.exe" --defaults-file="d:\documentos del trabajo\mysql\bin\my.ini" mysql
+11:28:23 p. m.  [mysql] 	Expected Path: c:\xampp\mysql\bin\mysqld.exe --defaults-file=c:\xampp\mysql\bin\my.ini mysql
+11:28:23 p. m.  [filezilla] 	FileZilla Service detected with wrong path
+11:28:23 p. m.  [filezilla] 	Change XAMPP FileZilla and Control Panel settings or
+11:28:23 p. m.  [filezilla] 	Uninstall/disable the other service manually first
+11:28:23 p. m.  [filezilla] 	Found Path: "D:\documentos del trabajo\filezillaftp\filezillaserver.exe"
+11:28:23 p. m.  [filezilla] 	Expected Path: "c:\xampp\FileZillaFTP\filezillaserver.exe"
+11:28:23 p. m.  [main] 	Enabling autostart for module "Apache"
+11:28:23 p. m.  [main] 	Starting Check-Timer
+11:28:23 p. m.  [main] 	Control Panel Ready
+11:28:24 p. m.  [Apache] 	Autostart active: starting...
+11:28:24 p. m.  [Apache] 	Attempting to start Apache service...
+11:28:27 p. m.  [Apache] 	Attempting to start Apache service...
+11:28:29 p. m.  [mysql] 	Attempting to start MySQL service...
+11:28:36 p. m.  [Apache] 	Attempting to start Apache service...
+11:28:51 p. m.  [main] 	Deinitializing Modules
+11:28:51 p. m.  [main] 	Deinitializing Control Panel
+
+11:28:56 p. m.  [main] 	Initializing Control Panel
+11:28:56 p. m.  [main] 	Windows Version:  Enterprise  64-bit
+11:28:56 p. m.  [main] 	XAMPP Version: 8.1.6
+11:28:56 p. m.  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:28:56 p. m.  [main] 	Running with Administrator rights - good!
+11:28:56 p. m.  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:28:56 p. m.  [main] 	Checking for prerequisites
+11:28:56 p. m.  [main] 	All prerequisites found
+11:28:56 p. m.  [main] 	Initializing Modules
+11:28:56 p. m.  [Apache] 	Apache Service detected with wrong path
+11:28:56 p. m.  [Apache] 	Change XAMPP Apache and Control Panel settings or
+11:28:56 p. m.  [Apache] 	Uninstall/disable the other service manually first
+11:28:56 p. m.  [Apache] 	Found Path: "D:\documentos del trabajo\apache\bin\httpd.exe" -k runservice
+11:28:56 p. m.  [Apache] 	Expected Path: "c:\xampp\apache\bin\httpd.exe" -k runservice
+11:28:56 p. m.  [mysql] 	MySQL Service detected with wrong path
+11:28:56 p. m.  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+11:28:56 p. m.  [mysql] 	Uninstall/disable the other service manually first
+11:28:56 p. m.  [mysql] 	Found Path: "D:\documentos del trabajo\mysql\bin\mysqld.exe" --defaults-file="d:\documentos del trabajo\mysql\bin\my.ini" mysql
+11:28:56 p. m.  [mysql] 	Expected Path: c:\xampp\mysql\bin\mysqld.exe --defaults-file=c:\xampp\mysql\bin\my.ini mysql
+11:28:56 p. m.  [filezilla] 	FileZilla Service detected with wrong path
+11:28:56 p. m.  [filezilla] 	Change XAMPP FileZilla and Control Panel settings or
+11:28:56 p. m.  [filezilla] 	Uninstall/disable the other service manually first
+11:28:56 p. m.  [filezilla] 	Found Path: "D:\documentos del trabajo\filezillaftp\filezillaserver.exe"
+11:28:56 p. m.  [filezilla] 	Expected Path: "c:\xampp\FileZillaFTP\filezillaserver.exe"
+11:28:56 p. m.  [main] 	Enabling autostart for module "Apache"
+11:28:56 p. m.  [main] 	Starting Check-Timer
+11:28:56 p. m.  [main] 	Control Panel Ready
+11:28:57 p. m.  [Apache] 	Autostart active: starting...
+11:28:57 p. m.  [Apache] 	Attempting to start Apache service...
+11:29:00 p. m.  [Apache] 	Attempting to start Apache service...
+11:29:52 p. m.  [main] 	Deinitializing Modules
+11:29:52 p. m.  [main] 	Deinitializing Control Panel
+

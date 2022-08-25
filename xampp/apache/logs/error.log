@@ -1,0 +1,269 @@
+[Wed Aug 24 23:22:38.517775 2022] [ssl:warn] [pid 9436:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:22:38.584597 2022] [ssl:warn] [pid 9436:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:22:38.658399 2022] [mpm_winnt:notice] [pid 9436:tid 408] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6 configured -- resuming normal operations
+[Wed Aug 24 23:22:38.658399 2022] [mpm_winnt:notice] [pid 9436:tid 408] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Aug 24 23:22:38.658399 2022] [core:notice] [pid 9436:tid 408] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Aug 24 23:22:38.665381 2022] [mpm_winnt:notice] [pid 9436:tid 408] AH00418: Parent: Created child process 1984
+[Wed Aug 24 23:22:39.274264 2022] [ssl:warn] [pid 1984:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:22:39.329118 2022] [ssl:warn] [pid 1984:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:22:39.373998 2022] [mpm_winnt:notice] [pid 1984:tid 416] AH00354: Child: Starting 150 worker threads.
+[Wed Aug 24 23:31:54.351751 2022] [ssl:warn] [pid 9844:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:31:54.398058 2022] [ssl:warn] [pid 9844:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:31:54.447925 2022] [mpm_winnt:notice] [pid 9844:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6 configured -- resuming normal operations
+[Wed Aug 24 23:31:54.447925 2022] [mpm_winnt:notice] [pid 9844:tid 384] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Aug 24 23:31:54.447925 2022] [core:notice] [pid 9844:tid 384] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Aug 24 23:31:54.456902 2022] [mpm_winnt:notice] [pid 9844:tid 384] AH00418: Parent: Created child process 4980
+[Wed Aug 24 23:31:54.778591 2022] [ssl:warn] [pid 4980:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:31:54.818456 2022] [ssl:warn] [pid 4980:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:31:54.854357 2022] [mpm_winnt:notice] [pid 4980:tid 424] AH00354: Child: Starting 150 worker threads.
+[Wed Aug 24 23:41:53.301550 2022] [mpm_winnt:notice] [pid 9844:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 24 23:41:55.323046 2022] [mpm_winnt:notice] [pid 4980:tid 424] AH00364: Child: All worker threads have exited.
+[Wed Aug 24 23:41:55.355961 2022] [mpm_winnt:notice] [pid 9844:tid 384] AH00430: Parent: Child process 4980 exited successfully.
+[Wed Aug 24 23:41:57.148274 2022] [ssl:warn] [pid 11968:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:41:57.199869 2022] [ssl:warn] [pid 11968:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:41:57.239763 2022] [mpm_winnt:notice] [pid 11968:tid 420] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6 configured -- resuming normal operations
+[Wed Aug 24 23:41:57.239763 2022] [mpm_winnt:notice] [pid 11968:tid 420] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Aug 24 23:41:57.239763 2022] [core:notice] [pid 11968:tid 420] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Aug 24 23:41:57.249736 2022] [mpm_winnt:notice] [pid 11968:tid 420] AH00418: Parent: Created child process 11660
+[Wed Aug 24 23:41:57.575619 2022] [ssl:warn] [pid 11660:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:41:57.615514 2022] [ssl:warn] [pid 11660:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:41:57.652415 2022] [mpm_winnt:notice] [pid 11660:tid 416] AH00354: Child: Starting 150 worker threads.
+[Wed Aug 24 23:43:15.780278 2022] [core:error] [pid 11660:tid 1840] (20023)The given path was above the root path: [client 127.0.0.1:51050] AH00127: Cannot map GET /C:/xampp/htdocs/Api HTTP/1.1 to file
+[Wed Aug 24 23:47:47.352087 2022] [core:error] [pid 11660:tid 1840] (20023)The given path was above the root path: [client 127.0.0.1:51109] AH00127: Cannot map GET /C:/xampp/htdocs HTTP/1.1 to file
+[Wed Aug 24 23:50:11.482895 2022] [mpm_winnt:notice] [pid 11968:tid 420] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 24 23:50:13.500864 2022] [mpm_winnt:notice] [pid 11660:tid 416] AH00364: Child: All worker threads have exited.
+[Wed Aug 24 23:50:13.528087 2022] [mpm_winnt:notice] [pid 11968:tid 420] AH00430: Parent: Child process 11660 exited successfully.
+[Wed Aug 24 23:55:00.233953 2022] [ssl:warn] [pid 2900:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:55:00.290801 2022] [ssl:warn] [pid 2900:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:55:00.338674 2022] [mpm_winnt:notice] [pid 2900:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6 configured -- resuming normal operations
+[Wed Aug 24 23:55:00.338674 2022] [mpm_winnt:notice] [pid 2900:tid 384] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Wed Aug 24 23:55:00.338674 2022] [core:notice] [pid 2900:tid 384] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Aug 24 23:55:00.350642 2022] [mpm_winnt:notice] [pid 2900:tid 384] AH00418: Parent: Created child process 5072
+[Wed Aug 24 23:55:00.687862 2022] [ssl:warn] [pid 5072:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:55:00.733708 2022] [ssl:warn] [pid 5072:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 24 23:55:00.772626 2022] [mpm_winnt:notice] [pid 5072:tid 444] AH00354: Child: Starting 150 worker threads.
+[Wed Aug 24 23:57:48.689621 2022] [mpm_winnt:notice] [pid 2900:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 24 23:57:50.709433 2022] [mpm_winnt:notice] [pid 5072:tid 444] AH00364: Child: All worker threads have exited.
+[Wed Aug 24 23:57:50.733758 2022] [mpm_winnt:notice] [pid 2900:tid 384] AH00430: Parent: Child process 5072 exited successfully.
+[Thu Aug 25 00:03:02.558022 2022] [ssl:warn] [pid 3288:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 25 00:03:02.645787 2022] [ssl:warn] [pid 3288:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: C:\\xampp\\php\\ext\\xdebug (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\xampp\\php\\ext\\php_xdebug.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Thu Aug 25 00:03:02.717596 2022] [mpm_winnt:notice] [pid 3288:tid 396] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6 configured -- resuming normal operations
+[Thu Aug 25 00:03:02.717596 2022] [mpm_winnt:notice] [pid 3288:tid 396] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Aug 25 00:03:02.717596 2022] [core:notice] [pid 3288:tid 396] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Aug 25 00:03:02.738541 2022] [mpm_winnt:notice] [pid 3288:tid 396] AH00418: Parent: Created child process 10640
+[Thu Aug 25 00:03:03.298043 2022] [ssl:warn] [pid 10640:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 25 00:03:03.364863 2022] [ssl:warn] [pid 10640:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: C:\\xampp\\php\\ext\\xdebug (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\xampp\\php\\ext\\php_xdebug.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Thu Aug 25 00:03:03.410741 2022] [mpm_winnt:notice] [pid 10640:tid 400] AH00354: Child: Starting 150 worker threads.
+[Thu Aug 25 01:09:12.735297 2022] [php:error] [pid 10640:tid 1896] [client 127.0.0.1:59734] script 'C:/xampp/htdocs/Api/ejemplo.php' not found or unable to stat
+[Thu Aug 25 01:10:00.156376 2022] [core:error] [pid 10640:tid 1892] (20023)The given path was above the root path: [client ::1:59738] AH00127: Cannot map GET /C:/xampp/htdocs/Api-rest HTTP/1.1 to file
+[Thu Aug 25 01:12:32.019420 2022] [php:warn] [pid 10640:tid 1892] [client ::1:59761] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\Api-rest\\Index.php\\Index.php on line 11
+[Thu Aug 25 01:12:32.019420 2022] [php:warn] [pid 10640:tid 1892] [client ::1:59761] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\Api-rest\\Index.php\\Index.php on line 11
+[Thu Aug 25 01:12:32.019420 2022] [php:error] [pid 10640:tid 1892] [client ::1:59761] PHP Fatal error:  Uncaught Error: Class "conexion" not found in C:\\xampp\\htdocs\\Api-rest\\Index.php\\Index.php:12\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\Api-rest\\Index.php\\Index.php on line 12
+[Thu Aug 25 01:13:31.685712 2022] [php:warn] [pid 10640:tid 1896] [client ::1:59760] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 11
+[Thu Aug 25 01:13:31.685712 2022] [php:warn] [pid 10640:tid 1896] [client ::1:59760] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 11
+[Thu Aug 25 01:13:31.685712 2022] [php:error] [pid 10640:tid 1896] [client ::1:59760] PHP Fatal error:  Uncaught Error: Class "conexion" not found in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php:12\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 12
+[Thu Aug 25 01:42:04.893670 2022] [php:warn] [pid 10640:tid 1896] [client ::1:64037] PHP Warning:  Undefined variable $consulta in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 24
+[Thu Aug 25 01:42:04.897660 2022] [php:error] [pid 10640:tid 1896] [client ::1:64037] PHP Fatal error:  Uncaught TypeError: pg_fetch_object(): Argument #1 ($result) must be of type PgSql\\Result, null given in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php:24\nStack trace:\n#0 C:\\xampp\\htdocs\\Api\\Index.php\\Index.php(24): pg_fetch_object(NULL)\n#1 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 24
+[Thu Aug 25 01:43:33.948511 2022] [php:warn] [pid 10640:tid 1892] [client ::1:56633] PHP Warning:  require(Conexion.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:43:33.948511 2022] [php:error] [pid 10640:tid 1892] [client ::1:56633] PHP Fatal error:  Uncaught Error: Failed opening required 'Conexion.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php:2\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:44:03.297058 2022] [php:warn] [pid 10640:tid 1896] [client ::1:56634] PHP Warning:  require(Conexion.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:44:03.297058 2022] [php:error] [pid 10640:tid 1896] [client ::1:56634] PHP Fatal error:  Uncaught Error: Failed opening required 'Conexion.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php:2\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:45:14.466496 2022] [php:warn] [pid 10640:tid 1892] [client ::1:56640] PHP Warning:  require(Conexion.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:45:14.466496 2022] [php:error] [pid 10640:tid 1892] [client ::1:56640] PHP Fatal error:  Uncaught Error: Failed opening required 'Conexion.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php:2\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:45:22.387576 2022] [php:warn] [pid 10640:tid 1896] [client ::1:56641] PHP Warning:  require(Conexion copy.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:45:22.388568 2022] [php:error] [pid 10640:tid 1896] [client ::1:56641] PHP Fatal error:  Uncaught Error: Failed opening required 'Conexion copy.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php:2\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:45:34.343286 2022] [php:warn] [pid 10640:tid 1892] [client ::1:56642] PHP Warning:  require(Conexioncopy.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:45:34.343286 2022] [php:error] [pid 10640:tid 1892] [client ::1:56642] PHP Fatal error:  Uncaught Error: Failed opening required 'Conexioncopy.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php:2\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:47:46.473975 2022] [php:warn] [pid 10640:tid 1896] [client ::1:63377] PHP Warning:  require(Conexion.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:47:46.473975 2022] [php:error] [pid 10640:tid 1896] [client ::1:63377] PHP Fatal error:  Uncaught Error: Failed opening required 'Conexion.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php:2\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:50:24.886141 2022] [php:warn] [pid 10640:tid 1892] [client ::1:60825] PHP Warning:  require(Conexion.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:50:24.886141 2022] [php:error] [pid 10640:tid 1892] [client ::1:60825] PHP Fatal error:  Uncaught Error: Failed opening required 'Conexion.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php:2\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:50:44.533833 2022] [php:warn] [pid 10640:tid 1896] [client ::1:60826] PHP Warning:  require(Conexion.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:50:44.533833 2022] [php:error] [pid 10640:tid 1896] [client ::1:60826] PHP Fatal error:  Uncaught Error: Failed opening required 'Conexion.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php:2\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\Index.php\\Index.php on line 2
+[Thu Aug 25 01:51:29.855866 2022] [php:warn] [pid 10640:tid 1896] [client ::1:55786] PHP Warning:  pg_query(): Query failed: ERROR:  no existe la relaci\xc3\xb3n \xc2\xabclientes\xc2\xbb\nLINE 1: ...on_Clientes, Telefono_Clientes, Mail_Clientes FROM CLIENTES \n                                                              ^ in C:\\xampp\\htdocs\\Api\\Conexion.php\\conexion.php on line 4, referer: http://localhost/Api/Conexion.php/
+[Thu Aug 25 01:52:16.078539 2022] [php:warn] [pid 10640:tid 1892] [client ::1:55785] PHP Warning:  pg_query(): Query failed: ERROR:  no existe la columna \xc2\xabclientes\xc2\xbb\nLINE 1: SELECT CLIENTES,FACTURA,PRODUCTOS,DETALLE\n               ^ in C:\\xampp\\htdocs\\Api\\Conexion.php\\conexion.php on line 4, referer: http://localhost/Api/Conexion.php/
+[Thu Aug 25 02:12:26.428045 2022] [php:warn] [pid 10640:tid 1896] [client ::1:55426] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  la autentificaci\xef\xbf\xbdn password fall\xef\xbf\xbd para el usuario \xef\xbf\xbdpostgres\xef\xbf\xbd in C:\\xampp\\htdocs\\Api\\conexion.php on line 3, referer: http://localhost/Api/Conexion.php/
+[Thu Aug 25 02:12:26.428045 2022] [php:error] [pid 10640:tid 1896] [client ::1:55426] PHP Fatal error:  Uncaught TypeError: pg_query(): Argument #1 ($connection) must be of type PgSql\\Connection, bool given in C:\\xampp\\htdocs\\Api\\conexion.php:9\nStack trace:\n#0 C:\\xampp\\htdocs\\Api\\conexion.php(9): pg_query(false, 'SELECT l.codigo...')\n#1 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\conexion.php on line 9, referer: http://localhost/Api/Conexion.php/
+[Thu Aug 25 02:12:31.976733 2022] [php:warn] [pid 10640:tid 1892] [client ::1:55427] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  la autentificaci\xef\xbf\xbdn password fall\xef\xbf\xbd para el usuario \xef\xbf\xbdpostgres\xef\xbf\xbd in C:\\xampp\\htdocs\\Api\\conexion.php on line 3
+[Thu Aug 25 02:12:31.976733 2022] [php:error] [pid 10640:tid 1892] [client ::1:55427] PHP Fatal error:  Uncaught TypeError: pg_query(): Argument #1 ($connection) must be of type PgSql\\Connection, bool given in C:\\xampp\\htdocs\\Api\\conexion.php:9\nStack trace:\n#0 C:\\xampp\\htdocs\\Api\\conexion.php(9): pg_query(false, 'SELECT l.codigo...')\n#1 C:\\xampp\\htdocs\\Api\\index.php(4): require('C:\\\\xampp\\\\htdocs...')\n#2 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\conexion.php on line 9
+[Thu Aug 25 02:12:39.750431 2022] [mpm_winnt:notice] [pid 3288:tid 396] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 25 02:13:09.760255 2022] [mpm_winnt:notice] [pid 3288:tid 396] AH00431: Parent: Forcing termination of child process 10640
+[Thu Aug 25 02:18:37.756074 2022] [ssl:warn] [pid 9172:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 25 02:18:37.803906 2022] [ssl:warn] [pid 9172:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: C:\\xampp\\php\\ext\\xdebug (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\xampp\\php\\ext\\php_xdebug.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Thu Aug 25 02:18:37.841806 2022] [mpm_winnt:notice] [pid 9172:tid 400] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6 configured -- resuming normal operations
+[Thu Aug 25 02:18:37.841806 2022] [mpm_winnt:notice] [pid 9172:tid 400] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Aug 25 02:18:37.841806 2022] [core:notice] [pid 9172:tid 400] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Aug 25 02:18:37.850784 2022] [mpm_winnt:notice] [pid 9172:tid 400] AH00418: Parent: Created child process 4016
+[Thu Aug 25 02:18:38.169628 2022] [ssl:warn] [pid 4016:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 25 02:18:38.210518 2022] [ssl:warn] [pid 4016:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: C:\\xampp\\php\\ext\\xdebug (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\xampp\\php\\ext\\php_xdebug.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Thu Aug 25 02:18:38.255398 2022] [mpm_winnt:notice] [pid 4016:tid 404] AH00354: Child: Starting 150 worker threads.
+[Thu Aug 25 02:18:49.953123 2022] [php:warn] [pid 4016:tid 1892] [client ::1:51639] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  la autentificaci\xef\xbf\xbdn password fall\xef\xbf\xbd para el usuario \xef\xbf\xbdpostgres\xef\xbf\xbd in C:\\xampp\\htdocs\\Api\\conexion.php on line 3
+[Thu Aug 25 02:18:49.954121 2022] [php:error] [pid 4016:tid 1892] [client ::1:51639] PHP Fatal error:  Uncaught TypeError: pg_query(): Argument #1 ($connection) must be of type PgSql\\Connection, bool given in C:\\xampp\\htdocs\\Api\\conexion.php:9\nStack trace:\n#0 C:\\xampp\\htdocs\\Api\\conexion.php(9): pg_query(false, 'SELECT l.codigo...')\n#1 C:\\xampp\\htdocs\\Api\\index.php(4): require('C:\\\\xampp\\\\htdocs...')\n#2 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\conexion.php on line 9
+[Thu Aug 25 02:19:21.685176 2022] [php:warn] [pid 4016:tid 1884] [client ::1:51640] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  no existe la base de datos \xef\xbf\xbdCurso\xef\xbf\xbd in C:\\xampp\\htdocs\\Api\\conexion.php on line 3
+[Thu Aug 25 02:19:21.685176 2022] [php:error] [pid 4016:tid 1884] [client ::1:51640] PHP Fatal error:  Uncaught TypeError: pg_query(): Argument #1 ($connection) must be of type PgSql\\Connection, bool given in C:\\xampp\\htdocs\\Api\\conexion.php:9\nStack trace:\n#0 C:\\xampp\\htdocs\\Api\\conexion.php(9): pg_query(false, 'SELECT l.codigo...')\n#1 C:\\xampp\\htdocs\\Api\\index.php(4): require('C:\\\\xampp\\\\htdocs...')\n#2 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\conexion.php on line 9
+[Thu Aug 25 02:20:07.015640 2022] [php:warn] [pid 4016:tid 1892] [client ::1:64939] PHP Warning:  pg_query(): Query failed: ERROR:  no existe la columna l.codigolibro\nLINE 1: SELECT l.codigolibro,l.titulo,l.autor,l.codigoeditorial, \n               ^ in C:\\xampp\\htdocs\\Api\\conexion.php on line 9
+[Thu Aug 25 02:20:07.015640 2022] [php:error] [pid 4016:tid 1892] [client ::1:64939] PHP Fatal error:  Uncaught TypeError: pg_fetch_object(): Argument #1 ($result) must be of type PgSql\\Result, bool given in C:\\xampp\\htdocs\\Api\\conexion.php:10\nStack trace:\n#0 C:\\xampp\\htdocs\\Api\\conexion.php(10): pg_fetch_object(false)\n#1 C:\\xampp\\htdocs\\Api\\index.php(4): require('C:\\\\xampp\\\\htdocs...')\n#2 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\conexion.php on line 10
+[Thu Aug 25 02:22:36.268396 2022] [php:warn] [pid 4016:tid 1884] [client ::1:62772] PHP Warning:  pg_query(): Query failed: ERROR:  no existe la columna l.codigolibro\nLINE 1: SELECT l.codigolibro,l.titulo,l.autor,l.codigoeditorial, \n               ^ in C:\\xampp\\htdocs\\Api\\conexion.php on line 9
+[Thu Aug 25 02:22:36.268396 2022] [php:error] [pid 4016:tid 1884] [client ::1:62772] PHP Fatal error:  Uncaught TypeError: pg_fetch_object(): Argument #1 ($result) must be of type PgSql\\Result, bool given in C:\\xampp\\htdocs\\Api\\index.php:30\nStack trace:\n#0 C:\\xampp\\htdocs\\Api\\index.php(30): pg_fetch_object(false)\n#1 {main}\n  thrown in C:\\xampp\\htdocs\\Api\\index.php on line 30
+[Thu Aug 25 02:50:35.493973 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.493973 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.493973 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.493973 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.493973 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.493973 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.493973 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.493973 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.494972 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.494972 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.494972 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.494972 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.494972 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.494972 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.494972 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.494972 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.494972 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.494972 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.494972 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.494972 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.495969 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.495969 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.495969 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.495969 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.495969 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.495969 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.495969 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.495969 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.495969 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.496968 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.496968 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.496968 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.496968 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.497965 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.497965 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.497965 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.497965 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.497965 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.497965 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.497965 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.498964 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.498964 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.498964 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.498964 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.498964 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.498964 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.498964 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.499960 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.499960 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.499960 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.499960 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.499960 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.499960 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.500957 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.500957 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.500957 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.500957 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.500957 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.501954 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.501954 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.501954 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.501954 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.501954 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.501954 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.502952 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.502952 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.502952 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.502952 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.502952 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.503950 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:50:35.503950 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$codigolibro in C:\\xampp\\htdocs\\Api\\index.php on line 34
+[Thu Aug 25 02:50:35.503950 2022] [php:warn] [pid 4016:tid 1892] [client ::1:56285] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.714101 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.714101 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.714101 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.714101 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.714101 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.714101 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.714101 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.714101 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.715070 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.715070 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.715070 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.715070 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.715070 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.715070 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.715070 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.715070 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.715070 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.715070 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.715070 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.715070 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.716067 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.716067 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.716067 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.716067 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.716067 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.716067 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.716067 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.716067 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.717064 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.717064 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.717064 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.717064 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.717064 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.717064 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.717064 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:51:41.717064 2022] [php:warn] [pid 4016:tid 1892] [client ::1:57108] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 38
+[Thu Aug 25 02:52:05.889473 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.890468 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.890468 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.890468 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.890468 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.890468 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.890468 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.890468 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.890468 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.890468 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.890468 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.891465 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.891465 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.891465 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.891465 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.891465 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.891465 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.891465 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.891465 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.891465 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.891465 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.891465 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.892467 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.892467 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.892467 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.892467 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.893461 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.893461 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.893461 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.894458 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.894458 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.894458 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.894458 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.894458 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.894458 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 02:52:05.894458 2022] [php:warn] [pid 4016:tid 1884] [client ::1:57107] PHP Warning:  Undefined property: stdClass::$nombre in C:\\xampp\\htdocs\\Api\\index.php on line 37
+[Thu Aug 25 03:05:01.600266 2022] [mpm_winnt:notice] [pid 9172:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 25 03:05:03.621915 2022] [mpm_winnt:notice] [pid 4016:tid 404] AH00364: Child: All worker threads have exited.
+[Thu Aug 25 03:05:03.665603 2022] [mpm_winnt:notice] [pid 9172:tid 400] AH00430: Parent: Child process 4016 exited successfully.
+[Thu Aug 25 03:54:21.153190 2022] [ssl:warn] [pid 1184:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 25 03:54:21.198650 2022] [ssl:warn] [pid 1184:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: C:\\xampp\\php\\ext\\xdebug (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\xampp\\php\\ext\\php_xdebug.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Thu Aug 25 03:54:21.237543 2022] [mpm_winnt:notice] [pid 1184:tid 404] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6 configured -- resuming normal operations
+[Thu Aug 25 03:54:21.237543 2022] [mpm_winnt:notice] [pid 1184:tid 404] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Aug 25 03:54:21.237543 2022] [core:notice] [pid 1184:tid 404] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Aug 25 03:54:21.249512 2022] [mpm_winnt:notice] [pid 1184:tid 404] AH00418: Parent: Created child process 7584
+[Thu Aug 25 03:54:21.593191 2022] [ssl:warn] [pid 7584:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 25 03:54:21.639891 2022] [ssl:warn] [pid 7584:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Failed loading Zend extension 'xdebug' (tried: C:\\xampp\\php\\ext\\xdebug (No se puede encontrar el m\xc3\xb3dulo especificado), C:\\xampp\\php\\ext\\php_xdebug.dll (No se puede encontrar el m\xc3\xb3dulo especificado)) in Unknown on line 0
+[Thu Aug 25 03:54:21.705722 2022] [mpm_winnt:notice] [pid 7584:tid 424] AH00354: Child: Starting 150 worker threads.
